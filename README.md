@@ -9,10 +9,14 @@ Welcome to my personal portfolio website! This project is built using **HTML** a
 ## How to Use 🖥️
 1. Clone the repository:  
    ```bash
-   git clone https://sabarishkumar1001.github.io/Portfolio-simple-website/
+   git clone https://github.com/sabarishkumar1001/Portfolio-simple-website.git
    ```
 2. Open the `index.html` file in your preferred browser to view the Home page.  
 3. Navigate to the **Contact** page via the link provided.  
+
+## Live Preview 🌐
+Check out the live version of the website here:  
+[Portfolio Website](https://sabarishkumar1001.github.io/Portfolio-simple-website/)
 
 ## Future Enhancements 🚀
 - Add additional pages like "Projects" or "About Me."
